@@ -161,11 +161,23 @@ message-when-breaking-block2: "&7Hint: Type &6/drop2inventory&7 or &6/drop2inv&7
 #message-when-breaking-block: "&7Hinweis: Benutze &6/drop2inventory&7 oder &6/drop2inv&7 um das automatische Einsammeln zu aktivieren."
 #message-when-breaking-block2: "&7Hinweis: Benutze &6/drop2inventory&7 oder &6/drop2inv&7 um das automatische Einsammeln zu deaktivieren."
 
-##### Spanish
-#message-disabled: "&7La coleccion automatica de dropeos ha sido &cdeshabilitada&7."
-#message-enabled: "&7La coleccion automatica de dropeos ha sido &ahabilitada&7."
-#message-when-breaking-block: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para habilitar la coleccion automatica de dropeos."
-#message-when-breaking-block2: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para deshabilitar la coleccion automatica de dropeos."
+##### Spanish (Spain)
+#message-disabled: "&7La recogida automática de objetos fue &cdeshabilitada&7."
+#message-enabled: "&7La recogida automática de objetos fue &ahabilitada&7."
+#message-when-breaking-block: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para habilitar la recogida automática de objetos."
+#message-when-breaking-block2: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para deshabilitar la recogida automática de objetos."
+
+##### Spanish (Argentina)
+#message-disabled: "&7Agarrar de forma automática los objetos fue &cdeshabilitado&7."
+#message-enabled: "&7Agarrar de forma automática los objetos fue &ahabilitado&7."
+#message-when-breaking-block: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para habilitar el agarre automático de objetos."
+#message-when-breaking-block2: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para deshabilitar el agarre automático de objetos."
+
+##### Spanish (México)
+#message-disabled: "&7La recolección automática de objetos fue &cdeshabilitada&7."
+#message-enabled: "&7La recolección automática de objetos fue &ahabilitada&7."
+#message-when-breaking-block: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para habilitar la recolección automática de objetos."
+#message-when-breaking-block2: "&7Drop2Inventory: Utiliza &6/drop2inventory&7 o &6/drop2inv&7 para deshabilitar la recolección automática de objetos."
 
 ##### Turkish
 #message-disabled: "&7Otomatik toplama &cdeaktifleştirildi&7."
